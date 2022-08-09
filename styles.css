@@ -1,0 +1,74 @@
+body {
+  background: black !important;
+}
+.main {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+.points {
+  font-size: 2.5rem;
+}
+
+.name1, .name2{
+  color: grey;
+  font-weight: bold;
+  font-size: 2.7rem;
+}
+.btn {
+  font-family: 'Montserrat', cursive !important;
+  letter-spacing: 4px;
+  width: 30%;
+  color: white;
+  font-size: 2.8rem !important;
+  outline: none !important;
+  padding: 3% 0 !important;
+  border: 0 !important;
+}
+
+.btn:active {
+  background: powderblue !important;
+  color: red !important;
+  border: 0 !important;
+}
+
+.title {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  color: white;
+  font-family: 'Montserrat', cursive;
+}
+
+.score1, .score2 {
+  color: black;
+  font-size: 2.5rem;
+  background: powderblue;
+  padding: 0 auto;
+  margin: 10% auto;
+  width: 50%;
+  border-radius: 8px;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
